@@ -1,5 +1,6 @@
 ##  Introduction to FLOSS and Linux CLI
-Contents, slides, handouts, demo code ran in the workshop
+Contents, slides, handouts, demo code ran in the workshop.
+Download the [cheatsheet-cli.pdf] (https://github.com/debug-ruas/Development-Track/tree/master/Linux-CLI/cheatsheet-cli.pdf) for better reference.
 * Introduction to Free, Libre and Open Source Software.
 * Why Open Source and FSF Philosophy
 * Intro to Linux and its journey to cover 90% of the computers
